@@ -12,6 +12,7 @@
 🔧 准备工作
 
 1.固件下载
+下载：https://wwpp.lanzoum.com/iTENz2z06jkd
 
 2.硬件连接
 电脑网线连接路由器 LAN 口
